@@ -4,6 +4,10 @@
 Telegram Bot to Bulk Downloading list of urls and Upload to Telegram.
 
 ### Features:
+### Deploy To Heroku
+
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy)
+
 
 #### Upload list of urls (2 methods):
 - send command `/link` and then send urls, separated by new line.
